@@ -1,0 +1,109 @@
+<!doctype html>
+<html>
+<head>
+    <!-- @include head.html -->
+    <script src="./js/flexisel.min.js"></script>
+    <title>Contacto - Madame Julia</title>
+</head>
+<body>
+<!-- Main container -->
+<div class="page-container">
+    
+<!-- Navigation Bloc -->
+<!-- @include menu.html -->
+<!-- Navigation Bloc END -->
+
+<!-- bloc-11 -->
+<div class="bloc bgc-bright-maroon d-bloc tc-white" id="bloc-11">
+	<div class="container bloc-lg">
+		<div class="row">
+			<div class="col-sm-8">
+				<form id="form-1" method="contacto.php">
+					<div class="form-group">
+						<label>
+							Nombre
+						</label>
+						<input id="nombre" class="form-control" />
+					</div>
+					<div class="form-group">
+						<label>
+							Teléfono
+						</label>
+						<input id="telefono" class="form-control" />
+					</div>
+					<div class="form-group">
+						<label>
+							Email
+						</label>
+						<input id="email" class="form-control" type="email" />
+					</div>
+					<div class="form-group">
+						<label>
+							Mensaje
+						</label>
+						<textarea id="comments" class="form-control" rows="4" cols="50">
+						</textarea>
+					</div> 
+					<button class="bloc-button btn btn-d btn-md btn-block" type="submit">
+						ENVIAR
+					</button>
+				</form>
+			</div>
+			<div class="col-sm-4">
+				<img src="img/mona.png" class="img-responsive center-block" width="30%" />
+			</div>
+		</div>
+	</div>
+</div>
+<!-- bloc-11 END -->
+
+<!-- bloc-13 -->
+<!-- @include slider.kit -->
+<!-- bloc-13 END -->
+
+<!-- Bloc Group -->
+<div class='bloc-group'>
+
+<!-- Footer - bloc-14 -->
+<!-- @include footer.html -->
+<!-- Footer - bloc-16 END -->
+</div>
+<!-- Bloc Group END -->
+</div>
+<!-- Main container END -->
+
+</body>
+
+<script type="text/javascript">
+
+$(window).load(function() {
+    $("#flexisel").flexisel({
+        visibleItems: 4,
+        animationSpeed: 1000,
+        autoPlay: true,
+        autoPlaySpeed: 3000,            
+        pauseOnHover: true,
+        enableResponsiveBreakpoints: true,
+        responsiveBreakpoints: { 
+            portrait: { 
+                changePoint:480,
+                visibleItems: 1
+            }, 
+            landscape: { 
+                changePoint:640,
+                visibleItems: 2
+            },
+            tablet: { 
+                changePoint:768,
+                visibleItems: 3
+            }
+        }
+    });
+});
+</script>
+    
+<!-- Google Analytics -->
+
+<!-- Google Analytics END -->
+
+</html>

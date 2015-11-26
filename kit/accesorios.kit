@@ -1,0 +1,155 @@
+<!doctype html>
+<html>
+<head>
+    <!-- @include head.html -->
+    <script src="./js/flexisel.min.js"></script>
+    <title>Accesorios - Madame Julia</title>
+</head>
+<body>
+<!-- Main container -->
+<div class="page-container">
+    
+<!-- Navigation Bloc -->
+<!-- @include menu.html -->
+<!-- Navigation Bloc END -->
+
+<!-- bloc-9 -->
+<div class="bloc bgc-bright-maroon d-bloc" id="bloc-9">
+	<div class="container bloc-sm">
+		<div class="row voffset">
+			<div class="col-sm-3">
+				<a href="" data-toggle="modal" data-target="#lentes1"><img src="img/ok_lentes/lentes_d.jpg" class="img-responsive center-block hvr-grow" /></a>
+				<h4 class="mg-md text-center">
+					Lentes
+				</h4>
+			</div>
+			<div class="col-sm-3">
+				<a href="" data-toggle="modal" data-target="#lentes2"><img src="img/ok_lentes/lentes_f.jpg" class="img-responsive center-block hvr-grow" /></a>
+				<h4 class="mg-md text-center">
+					Lentes
+				</h4>
+			</div>
+			<div class="col-sm-3">
+				
+			</div>
+			<div class="col-sm-3">
+				
+			</div>
+		</div>
+		
+	</div>
+</div>
+<!-- bloc-9 END -->
+
+<!-- bloc-10 -->
+<!-- @include slider.kit -->
+<!-- bloc-10 END -->
+
+<!-- ScrollToTop Button -->
+<a class="bloc-button btn btn-d scrollToTop" onclick="scrollToTarget('1')"><span class="fa fa-chevron-up"></span></a>
+<!-- ScrollToTop Button END-->
+
+
+<!-- Bloc Group -->
+<div class='bloc-group'>
+
+<!-- Footer - bloc-14 -->
+<!-- @include footer.html -->
+<!-- Footer - bloc-16 END -->
+</div>
+<!-- Bloc Group END -->
+</div>
+<!-- Main container END -->
+
+</body>
+
+<!-- Modal -->
+<div class="modal fade" id="lentes1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h4 class="modal-title" id="myModalLabel">Lentes</h4>
+      </div>
+      <div class="modal-body">
+      	<img src="img/ok_lentes/lentes_d.jpg" class="img-responsive center-block" />
+        <br>
+        <p>
+          Disponible sólo en color blanco <br>
+          Precio: $9.000.-
+        </p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Fin Modal -->
+
+<!-- Modal -->
+<div class="modal fade" id="lentes2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h4 class="modal-title" id="myModalLabel">Lentes</h4>
+      </div>
+      <div class="modal-body">
+        <div class="row">
+          <div class="col-md-4">
+            <img src="img/ok_lentes/lentes_f.jpg" class="img-responsive center-block" />  
+          </div>
+          <div class="col-md-4">
+            <img src="img/ok_lentes/lentes_e.jpg" class="img-responsive center-block" />  
+          </div>
+          <div class="col-md-4">
+            <img src="img/ok_lentes/lentes_g.jpg" class="img-responsive center-block" />  
+          </div>
+        </div>
+      	
+        <br>
+        <p>
+          Disponibles en varios colores <br>
+          Precio: $7.000.-
+        </p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Fin Modal -->
+
+<script type="text/javascript">
+
+$(window).load(function() {
+    $("#flexisel").flexisel({
+        visibleItems: 4,
+        animationSpeed: 1000,
+        autoPlay: true,
+        autoPlaySpeed: 3000,            
+        pauseOnHover: true,
+        enableResponsiveBreakpoints: true,
+        responsiveBreakpoints: { 
+            portrait: { 
+                changePoint:480,
+                visibleItems: 1
+            }, 
+            landscape: { 
+                changePoint:640,
+                visibleItems: 2
+            },
+            tablet: { 
+                changePoint:768,
+                visibleItems: 3
+            }
+        }
+    });
+});
+</script>
+    
+<!-- Google Analytics -->
+
+<!-- Google Analytics END -->
+
+</html>
