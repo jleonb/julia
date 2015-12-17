@@ -681,6 +681,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/Home_JULIA.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 263624,
+		"inputAbbreviatedPath": "\/img\/Home_JULIA.png",
+		"outputAbbreviatedPath": "\/img\/Home_JULIA.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/julia.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21909,
+		"inputAbbreviatedPath": "\/img\/julia.jpg",
+		"outputAbbreviatedPath": "\/img\/julia.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/logo.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1572,6 +1594,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/ok_zapatos\/zapato28.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 357993,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/zapato28.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/zapato28.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/zapato29.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 184343,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/zapato29.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/zapato29.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/ok_zapatos\/zapato3.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2032,6 +2076,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/kit\/ver_aca.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/ver_aca.kit",
+		"outputAbbreviatedPath": "\/ver_aca.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/kit\/vestuario.kit": {
 		"fileType": 2048,
 		"ignore": 0,
@@ -2082,6 +2135,15 @@
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/trajesdebano.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ver_aca.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ver_aca.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
