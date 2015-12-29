@@ -648,17 +648,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/destacados\/zapato13.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 90907,
-		"inputAbbreviatedPath": "\/img\/destacados\/zapato13.jpg",
-		"outputAbbreviatedPath": "\/img\/destacados\/zapato13.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/img\/destacados\/zapato2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -666,6 +655,17 @@
 		"initialSize": 74602,
 		"inputAbbreviatedPath": "\/img\/destacados\/zapato2.jpg",
 		"outputAbbreviatedPath": "\/img\/destacados\/zapato2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/destacados\/zapato29.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12489,
+		"inputAbbreviatedPath": "\/img\/destacados\/zapato29.jpg",
+		"outputAbbreviatedPath": "\/img\/destacados\/zapato29.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1623,6 +1623,50 @@
 		"initialSize": 56705,
 		"inputAbbreviatedPath": "\/img\/ok_zapatos\/zapato3.jpg",
 		"outputAbbreviatedPath": "\/img\/ok_zapatos\/zapato3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/zapato30.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 41675,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/zapato30.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/zapato30.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/zapato31.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39597,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/zapato31.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/zapato31.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/zapato32.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39073,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/zapato32.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/zapato32.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/zapato32_b.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 281682,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/zapato32_b.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/zapato32_b.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
