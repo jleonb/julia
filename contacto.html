@@ -8,13 +8,21 @@
     <link rel="stylesheet" type="text/css" href="./css/bootstrap.min.css">
     <link rel="stylesheet" id="ppstyle" type="text/css" href="style.min.css">
     <link rel='stylesheet' href='./css/ionicons.min.css'/>
-    <link rel='stylesheet' href='./css/flexisel.min.css'/>
     <link rel='stylesheet' href='./css/font-awesome.min.css'/>
+    <link rel='stylesheet' href='./css/owl.carousel.min.css'/>
+    <link rel='stylesheet' href='./css/owl.theme.min.css'/>
+    <link rel='stylesheet' href='./css/owl.transitions.min.css'/>
+
     <link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
-    
+
     <script src="./js/jquery-2.1.0.min.js"></script>
     <script src="./js/bootstrap.min.js"></script>
     <script src="./js/blocs.min.js"></script>
+    <script src="./js/cssslidy.min.js"></script>
+  	<script src="./js/owl.carousel.min.js"></script>
+
+    <link rel='stylesheet' href='./css/lightbox.css'/>
+    <script src="./js/lightbox.min.js"></script>
 
     <link rel="apple-touch-icon" sizes="57x57" href="/favicon/apple-touch-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="/favicon/apple-touch-icon-60x60.png">
@@ -39,14 +47,13 @@
     <meta property="og:title" content="Madame Julia" />
     <meta property="og:url" content="http://www.julia.cl" />
     <meta property="og:image" content="http://www.julai.cl/img/julia.jpg" />
-    
     <script src="./js/flexisel.min.js"></script>
     <title>Contacto - Madame Julia</title>
 </head>
 <body>
 <!-- Main container -->
 <div class="page-container">
-    
+
 <!-- Navigation Bloc -->
 <div class="bloc2 bgc-white l-bloc" id="nav-bloc">
 	<div class="container2">
@@ -98,14 +105,14 @@
 			<div class="col-sm-8">
 				<form class="form-horizontal" name="commentform" method="post" action="contacto.php">
 	    			<div class="form-group">
-	        		
+
 	        			<div class="col-md-12 input-group">
 	        				<span class="input-group-addon"><i class="fa fa-user"></i></span>
 	            			<input type="text" class="form-control" id="nombre" name="nombre" placeholder="nombre"/>
 	        			</div>
 	    			</div>
 	    			<div class="form-group">
-	        			
+
 	        				<div class="col-md-12 input-group">
 	        					<span class="input-group-addon"><i class="fa fa-phone"></i></span>
 	            				<input type="text" class="form-control" id="telefono" name="telefono" placeholder="teléfono"/>
@@ -119,7 +126,7 @@
 	        				</div>
 	    			</div>
 	    			<div class="form-group">
-	        			
+
 	        				<div class="col-md-12 input-group">
 	            				<textarea rows="6" class="form-control" id="comments" name="comments" placeholder="su mensaje"></textarea>
 	        				</div>
@@ -141,7 +148,7 @@
 </div>
 <!-- bloc-11 END -->
 
-<div class="bloc bgc-bright-maroon d-bloc tc-white" id="datos-transferencia">
+<!-- <div class="bloc bgc-bright-maroon d-bloc tc-white" id="datos-transferencia">
 	<div class="container bloc-sm2">
 		<div class="row">
 			<div class="col-md-10 col-md-offset-1 pull-left">
@@ -159,30 +166,32 @@
 			</div>
 		</div>
 	</div>
-</div>
+</div> -->
 
 <!-- bloc-13 -->
 <div class="bloc bgc-bright-maroon d-bloc" id="bloc-10">
 	<div class="container bloc-sm">
 		<div class="row">
 			<div class="col-sm-12">
-				<ul id="flexisel" class="list-unstyled">
-    				<li><a href="calzado.html"><img src="img/destacados/zapato1.jpg" /></a></li>
-    				<li><a href="calzado.html"><img src="img/destacados/zapato2.jpg" /></a></li>
-    				<li><a href="calzado.html"><img src="img/destacados/zapato8.jpg" /></a></li>
-    				<li><a href="calzado.html"><img src="img/destacados/zapato12.jpg" /></a></li>
-    				<li><a href="calzado.html"><img src="img/destacados/zapato29.jpg" /></a></li>
-				</ul> 
+				<div id="carrusel" class="owl-carousel center-block">
+					<a href="calzado.html"><img src="img/ok_zapatos/nf/alicia_1.jpg" alt="destacado" width="220px" class="center-block img-frame"></a>
+					<a href="calzado.html"><img src="img/ok_zapatos/nf/amparo_1.jpg" alt="destacado" width="220px" class="center-block img-frame"></a>
+					<a href="calzado.html"><img src="img/ok_zapatos/nf/daniela_1.jpg" alt="destacado" width="220px" class="center-block img-frame"></a>
+					<a href="calzado.html"><img src="img/ok_zapatos/nf/clarisa_1.jpg" alt="destacado" width="220px" class="center-block img-frame"></a>
+					<a href="calzado.html"><img src="img/ok_zapatos/nf/emiliareno_1.jpg" alt="destacado" width="220px" class="center-block img-frame"></a>
+					<a href="calzado.html"><img src="img/ok_zapatos/nf/sofia_1.jpg" alt="destacado" width="220px" class="center-block img-frame"></a>
+					<a href="calzado.html"><img src="img/ok_zapatos/nf/dominga_1.jpg" alt="destacado" width="220px" class="center-block img-frame"></a>
+				</div>
 			</div>
 		</div>
 		<hr>
 	</div>
-</div><!-- bloc-13 END -->
+</div>
+<!-- bloc-13 END -->
 
-<!-- Bloc Group -->
-<div class='bloc-group'>
 
 <!-- Footer - bloc-14 -->
+<div class='bloc-group'>
 
 <div class="bloc bloc-tile-3 bgc-bright-maroon d-bloc" id="bloc-14">
 	<div class="container bloc-sm">
@@ -250,9 +259,21 @@
 			</div>
 		</div>
 	</div>
-</div><!-- Footer - bloc-16 END -->
 </div>
-<!-- Bloc Group END -->
+
+</div>
+
+<div class="bloc bgc-bright-maroon d-bloc" id="transbank">
+	<div class="container bloc-sm">
+		<div class="row">
+			<div class="col-sm-12">
+				<img src="img/transbank.png" alt="logo transbank" class="center-block img-responsive">
+			</div>
+		</div>
+	</div>
+</div>
+<!-- Footer - bloc-16 END -->
+
 </div>
 <!-- Main container END -->
 
@@ -265,19 +286,19 @@ $(window).load(function() {
         visibleItems: 4,
         animationSpeed: 1000,
         autoPlay: true,
-        autoPlaySpeed: 3000,            
+        autoPlaySpeed: 3000,
         pauseOnHover: true,
         enableResponsiveBreakpoints: true,
-        responsiveBreakpoints: { 
-            portrait: { 
+        responsiveBreakpoints: {
+            portrait: {
                 changePoint:480,
                 visibleItems: 1
-            }, 
-            landscape: { 
+            },
+            landscape: {
                 changePoint:640,
                 visibleItems: 2
             },
-            tablet: { 
+            tablet: {
                 changePoint:768,
                 visibleItems: 3
             }
@@ -285,7 +306,7 @@ $(window).load(function() {
     });
 });
 </script>
-    
+
 <!-- Google Analytics -->
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

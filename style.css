@@ -12,7 +12,7 @@ body{
     -moz-osx-font-smoothing: grayscale;
 }
 a:hover{
-	text-decoration: none; 
+	text-decoration: none;
 	cursor:pointer;
 	color:white;
 }
@@ -20,7 +20,7 @@ a:hover{
 button{outline: none!important;} /* Prevent ugly blue glow on chrome and safari */
 
 
-   
+
 
 
 /* Globals type styling */
@@ -120,6 +120,25 @@ button{outline: none!important;} /* Prevent ugly blue glow on chrome and safari 
 	width:100%;
 }
 
+/* Image Frame */
+.img-frame,.img-frame-md,.img-frame-lg,.img-frame-rd,.img-frame-rd-md,.img-frame-rd-lg{
+	background:#FFF;
+	border:1px solid rgba(0,0,0,0.1);
+	box-shadow:0 2px 2px rgba(0,0,0,0.05);
+	padding:4px;
+}
+.img-frame{
+	border-radius:3px;
+}
+.img-frame-md,.img-frame-lg{
+	border-radius:6px;
+}
+.img-frame-md,.img-frame-rd-md{
+	padding:8px;
+}
+.img-frame-lg,.img-frame-rd-lg{
+	padding:14px;
+}
 
 /* Dark theme */
 
@@ -250,7 +269,7 @@ button{outline: none!important;} /* Prevent ugly blue glow on chrome and safari 
 }
 .navbar-collapse {
 	margin-right: 0px;
-} 
+}
 .nav > li{
 	/*float:left;*/
 	margin-top:-0px;
@@ -482,20 +501,20 @@ iframe{
 
 
 
-/* = Mobile adjustments 
+/* = Mobile adjustments
 -------------------------------------------------------------- */
 @media (max-width: 1024px)
 {
     .bloc{
-        padding-left: 20px; 
-        padding-right: 20px;  
+        padding-left: 20px;
+        padding-right: 20px;
     }
 }
 @media (max-width: 768px)
 {
     .container{width:100%;}
     .b-parallax{background-attachment:scroll;}
-    .page-container, #hero-bloc{overflow-x: hidden;position: relative;} /* Prevent unwanted side scroll on mobile */  
+    .page-container, #hero-bloc{overflow-x: hidden;position: relative;} /* Prevent unwanted side scroll on mobile */
 }
 @media (max-width: 767px)
 {
@@ -504,8 +523,8 @@ iframe{
         position:relative;
     }
     h1,h2,h3,h4,h5,h6,p{
-        padding-left:10px!important; 
-        padding-right:10px!important; 
+        padding-left:10px!important;
+        padding-right:10px!important;
     }
     #hero-bloc h1{
         font-size:40px;
@@ -517,8 +536,8 @@ iframe{
         font-size:25px;
     }
     .bloc{
-        padding-left: 0; 
-        padding-right: 0;  
+        padding-left: 0;
+        padding-right: 0;
         -webkit-background-size: auto 200%;
         -moz-background-size: auto 200%;
         -o-background-size: auto 200%;
@@ -530,7 +549,7 @@ iframe{
     .b-parallax{
         background-attachment:scroll;
     }
-    
+
     .navbar .nav{
         padding-top: 0;
         border-top:1px solid rgba(0,0,0,.2);
@@ -545,7 +564,7 @@ iframe{
 	   transform:none;
 	   -webkit-transform:none;
 	   -ms-transform:none;
-    }  
+    }
     .nav > li{
         margin-top: 0;
         border-bottom:1px solid rgba(0,0,0,.1);
@@ -579,17 +598,17 @@ iframe{
     .navbar-brand img{
         max-height: 40px;
         width:auto;
-        margin: -10px 10px 0 0;    
+        margin: -10px 10px 0 0;
     }
     .nav-invert .navbar-header{
         float: none;
         width:100%;
     }
     .nav-invert .navbar-toggle{
-        float:left; 
+        float:left;
     }
     .btn.pull-left, .btn.pull-right{
-       float:none!important; 
+       float:none!important;
     }
     .bloc-group .bloc{
          display:block;
@@ -603,14 +622,14 @@ iframe{
         padding: 40px 0;
     }
     .bloc-sm,.bloc-md{
-        padding-left: 0; 
+        padding-left: 0;
         padding-right: 0;
     }
     .a-block{
         text-align: center;
     }
     .btn-dwn{
-       display:none; 
+       display:none;
     }
     .voffset{
         margin-top:5px;
@@ -713,7 +732,14 @@ hr {
 .hvr-underline-from-left:hover:before, .hvr-underline-from-left:focus:before, .hvr-underline-from-left:active:before {
   right: 0;
 }
+.webpay {
+	width: 10em;
+}
 
 
-
-
+#carousel img {
+	width: 2em;
+}
+#transbank img {
+	width: 30em;
+}

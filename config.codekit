@@ -128,6 +128,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/css\/grabbing.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 116,
+		"inputAbbreviatedPath": "\/css\/grabbing.png",
+		"outputAbbreviatedPath": "\/css\/grabbing.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/css\/ionicons.min.css": {
 		"fileType": 16,
 		"ignore": 0,
@@ -151,6 +162,60 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/css\/lightbox.min.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/owl.carousel.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/owl.carousel.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/owl.carousel.min.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/owl.carousel.min.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/owl.theme.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/owl.theme.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/owl.theme.min.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/owl.theme.min.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/owl.transitions.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/owl.transitions.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/owl.transitions.min.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/owl.transitions.min.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -494,6 +559,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/banner_invierno.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 149546,
+		"inputAbbreviatedPath": "\/img\/banner_invierno.jpg",
+		"outputAbbreviatedPath": "\/img\/banner_invierno.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/banner_traje.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -501,6 +577,28 @@
 		"initialSize": 256915,
 		"inputAbbreviatedPath": "\/img\/banner_traje.jpg",
 		"outputAbbreviatedPath": "\/img\/banner_traje.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/banner_verano.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 177930,
+		"inputAbbreviatedPath": "\/img\/banner_verano.jpg",
+		"outputAbbreviatedPath": "\/img\/banner_verano.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/banner_vestuario (1).jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 552564,
+		"inputAbbreviatedPath": "\/img\/banner_vestuario (1).jpg",
+		"outputAbbreviatedPath": "\/img\/banner_vestuario (1).jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -835,6 +933,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/ok_tdb\/traje10_agotado.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 84094,
+		"inputAbbreviatedPath": "\/img\/ok_tdb\/traje10_agotado.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_tdb\/traje10_agotado.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/ok_tdb\/traje11.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -985,6 +1094,17 @@
 		"initialSize": 121743,
 		"inputAbbreviatedPath": "\/img\/ok_tdb\/traje6.jpg",
 		"outputAbbreviatedPath": "\/img\/ok_tdb\/traje6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_tdb\/traje6_agotado.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 51053,
+		"inputAbbreviatedPath": "\/img\/ok_tdb\/traje6_agotado.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_tdb\/traje6_agotado.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1264,6 +1384,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/ok_vestuario\/traje6_agotado.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 51053,
+		"inputAbbreviatedPath": "\/img\/ok_vestuario\/traje6_agotado.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_vestuario\/traje6_agotado.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/ok_vestuario\/vestido2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1271,6 +1402,17 @@
 		"initialSize": 112613,
 		"inputAbbreviatedPath": "\/img\/ok_vestuario\/vestido2.jpg",
 		"outputAbbreviatedPath": "\/img\/ok_vestuario\/vestido2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_vestuario\/vestido2_agotado.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 49246,
+		"inputAbbreviatedPath": "\/img\/ok_vestuario\/vestido2_agotado.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_vestuario\/vestido2_agotado.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1304,6 +1446,17 @@
 		"initialSize": 72183,
 		"inputAbbreviatedPath": "\/img\/ok_vestuario\/vestido4.jpg",
 		"outputAbbreviatedPath": "\/img\/ok_vestuario\/vestido4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_vestuario\/vestido4_agotado.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 44027,
+		"inputAbbreviatedPath": "\/img\/ok_vestuario\/vestido4_agotado.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_vestuario\/vestido4_agotado.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1359,6 +1512,512 @@
 		"initialSize": 12373,
 		"inputAbbreviatedPath": "\/img\/ok_vestuario\/vestido6.jpg",
 		"outputAbbreviatedPath": "\/img\/ok_vestuario\/vestido6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/anais_cafe.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 145214,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/anais_cafe.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/anais_cafe.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/anais_cafe_x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 46976,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/anais_cafe_x.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/anais_cafe_x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/nf\/5_a.png.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 85979,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/5_a.png.jpeg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/5_a.png.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/nf\/5_b.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 78828,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/5_b.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/5_b.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/nf\/alicia_1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 106541,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/alicia_1.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/alicia_1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/nf\/alicia_2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 107283,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/alicia_2.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/alicia_2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/nf\/amanda_1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 114315,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/amanda_1.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/amanda_1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/nf\/amanda_2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 114011,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/amanda_2.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/amanda_2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/nf\/amparo_1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 72857,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/amparo_1.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/amparo_1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/nf\/amparo_2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 75637,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/amparo_2.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/amparo_2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/nf\/anais_blanco_1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 112288,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/anais_blanco_1.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/anais_blanco_1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/nf\/anais_blanco_2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 88288,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/anais_blanco_2.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/anais_blanco_2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/nf\/anais_cafe_1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 113680,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/anais_cafe_1.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/anais_cafe_1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/nf\/anais_cafe_2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 117328,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/anais_cafe_2.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/anais_cafe_2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/nf\/andreacombinado_1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 106513,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/andreacombinado_1.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/andreacombinado_1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/nf\/andreacombinado_2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 113086,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/andreacombinado_2.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/andreacombinado_2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/nf\/blanca_1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 121459,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/blanca_1.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/blanca_1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/nf\/blanca_2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 118564,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/blanca_2.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/blanca_2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/nf\/clarisa_1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 112273,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/clarisa_1.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/clarisa_1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/nf\/clarisa_2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 115797,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/clarisa_2.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/clarisa_2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/nf\/daniela_1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 116091,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/daniela_1.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/daniela_1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/nf\/daniela_2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 112951,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/daniela_2.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/daniela_2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/nf\/dominga_1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 113929,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/dominga_1.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/dominga_1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/nf\/dominga_2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 112170,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/dominga_2.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/dominga_2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/nf\/dominga_negro_1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 104616,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/dominga_negro_1.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/dominga_negro_1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/nf\/dominga_negro_2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 98856,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/dominga_negro_2.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/dominga_negro_2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/nf\/emilia_a.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 108571,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/emilia_a.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/emilia_a.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/nf\/emilia_b.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 105800,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/emilia_b.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/emilia_b.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/nf\/emiliareno_1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 104723,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/emiliareno_1.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/emiliareno_1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/nf\/emiliareno_2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 108403,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/emiliareno_2.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/emiliareno_2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/nf\/jacintaflecos_1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 116344,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/jacintaflecos_1.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/jacintaflecos_1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/nf\/jacintaflecos_2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 114102,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/jacintaflecos_2.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/jacintaflecos_2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/nf\/jacintarojo_1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 113732,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/jacintarojo_1.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/jacintarojo_1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/nf\/jacintarojo_2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 115779,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/jacintarojo_2.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/jacintarojo_2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/nf\/josefa_1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 116720,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/josefa_1.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/josefa_1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/nf\/josefa_2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 112469,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/josefa_2.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/josefa_2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/nf\/julia_bicolor_1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 124313,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/julia_bicolor_1.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/julia_bicolor_1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/nf\/julia_bicolor_2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 123124,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/julia_bicolor_2.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/julia_bicolor_2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/nf\/margarita_1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 103667,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/margarita_1.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/margarita_1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/nf\/margarita_2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 106947,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/margarita_2.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/margarita_2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/nf\/roberta_1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 108994,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/roberta_1.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/roberta_1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/nf\/roberta_2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 111602,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/roberta_2.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/roberta_2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/nf\/sofia_1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 111691,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/sofia_1.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/sofia_1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/nf\/sofia_2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 108716,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/sofia_2.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/sofia_2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/nf\/sofia_a.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 100169,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/sofia_a.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/sofia_a.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/nf\/sofia_b.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 102221,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/sofia_b.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/sofia_b.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1671,6 +2330,237 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/ok_zapatos\/zapato33.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 155220,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/zapato33.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/zapato33.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/zapato33_b.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 135561,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/zapato33_b.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/zapato33_b.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/zapato33x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 46848,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/zapato33x.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/zapato33x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/zapato34.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 159914,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/zapato34.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/zapato34.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/zapato34_b.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 147728,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/zapato34_b.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/zapato34_b.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/zapato34x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 45007,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/zapato34x.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/zapato34x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/zapato35.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 145504,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/zapato35.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/zapato35.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/zapato35_b.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 149358,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/zapato35_b.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/zapato35_b.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/zapato35x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 43697,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/zapato35x.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/zapato35x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/zapato36.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 140812,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/zapato36.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/zapato36.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/zapato36_b.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 148841,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/zapato36_b.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/zapato36_b.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/zapato36x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 46070,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/zapato36x.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/zapato36x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/zapato37.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 151942,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/zapato37.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/zapato37.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/zapato37_b.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 123656,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/zapato37_b.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/zapato37_b.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/zapato37x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 44615,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/zapato37x.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/zapato37x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/zapato38.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 165294,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/zapato38.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/zapato38.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/zapato38_b.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 165443,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/zapato38_b.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/zapato38_b.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/zapato38x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 50927,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/zapato38x.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/zapato38x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/zapato39.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 138543,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/zapato39.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/zapato39.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/zapato39_b.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 150010,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/zapato39_b.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/zapato39_b.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/zapato39x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37980,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/zapato39x.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/zapato39x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/ok_zapatos\/zapato4.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1682,6 +2572,39 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/ok_zapatos\/zapato40.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 147233,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/zapato40.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/zapato40.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/zapato40_b.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 149044,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/zapato40_b.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/zapato40_b.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/zapato40x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 46107,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/zapato40x.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/zapato40x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/ok_zapatos\/zapato4_b.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1689,6 +2612,17 @@
 		"initialSize": 53371,
 		"inputAbbreviatedPath": "\/img\/ok_zapatos\/zapato4_b.jpg",
 		"outputAbbreviatedPath": "\/img\/ok_zapatos\/zapato4_b.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/zapato4x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18451,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/zapato4x.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/zapato4x.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1832,6 +2766,39 @@
 		"initialSize": 1360,
 		"inputAbbreviatedPath": "\/img\/prev.png",
 		"outputAbbreviatedPath": "\/img\/prev.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/tarjetas-transbank.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 220782,
+		"inputAbbreviatedPath": "\/img\/tarjetas-transbank.png",
+		"outputAbbreviatedPath": "\/img\/tarjetas-transbank.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/transbank.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 220782,
+		"inputAbbreviatedPath": "\/img\/transbank.png",
+		"outputAbbreviatedPath": "\/img\/transbank.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/webpay.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 62680,
+		"inputAbbreviatedPath": "\/img\/webpay.png",
+		"outputAbbreviatedPath": "\/img\/webpay.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2010,6 +2977,28 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/js\/owl.carousel.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/owl.carousel.js",
+		"outputAbbreviatedPath": "\/js\/min\/owl.carousel-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/owl.carousel.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/owl.carousel.min.js",
+		"outputAbbreviatedPath": "\/js\/min\/owl.carousel.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/js\/velocity.min.js": {
 		"fileType": 64,
 		"ignore": 0,
@@ -2057,6 +3046,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/kit\/footer.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/footer.kit",
+		"outputAbbreviatedPath": "\/footer.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/kit\/gracias.kit": {
 		"fileType": 2048,
 		"ignore": 0,
@@ -2072,6 +3070,15 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/kit\/head.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kit\/head.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/head.kit",
+		"outputAbbreviatedPath": "\/head.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -2093,6 +3100,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/kit\/menu.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/menu.kit",
+		"outputAbbreviatedPath": "\/menu.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/kit\/ofertas.kit": {
 		"fileType": 2048,
 		"ignore": 0,
@@ -2104,7 +3120,7 @@
 		},
 	"\/kit\/slider.kit": {
 		"fileType": 2048,
-		"ignore": 1,
+		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/kit\/slider.kit",
 		"outputAbbreviatedPath": "\/slider.html",
@@ -2122,7 +3138,7 @@
 		},
 	"\/kit\/ver_aca.kit": {
 		"fileType": 2048,
-		"ignore": 1,
+		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/kit\/ver_aca.kit",
 		"outputAbbreviatedPath": "\/ver_aca.html",
