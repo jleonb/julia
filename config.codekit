@@ -1538,28 +1538,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/ok_zapatos\/nf\/5_a.png.jpeg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 85979,
-		"inputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/5_a.png.jpeg",
-		"outputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/5_a.png.jpeg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/ok_zapatos\/nf\/5_b.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 78828,
-		"inputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/5_b.jpg",
-		"outputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/5_b.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/img\/ok_zapatos\/nf\/alicia_1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1846,6 +1824,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/ok_zapatos\/nf\/jacinta_verde_a.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 98800,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/jacinta_verde_a.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/jacinta_verde_a.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/nf\/jacinta_verde_b.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 94064,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/jacinta_verde_b.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/jacinta_verde_b.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/ok_zapatos\/nf\/jacintaflecos_1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1934,6 +1934,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/ok_zapatos\/nf\/loreto_a.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 85979,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/loreto_a.jpeg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/loreto_a.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/nf\/loreto_b.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 78828,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/loreto_b.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/loreto_b.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/ok_zapatos\/nf\/margarita_1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1952,6 +1974,50 @@
 		"initialSize": 106947,
 		"inputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/margarita_2.jpg",
 		"outputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/margarita_2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/nf\/natalia_a.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 114600,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/natalia_a.png",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/natalia_a.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/nf\/natalia_b.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 104416,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/natalia_b.png",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/natalia_b.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/nf\/pia_a.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 71020,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/pia_a.jpg",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/pia_a.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ok_zapatos\/nf\/pia_b.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 98562,
+		"inputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/pia_b.png",
+		"outputAbbreviatedPath": "\/img\/ok_zapatos\/nf\/pia_b.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
